@@ -12,6 +12,7 @@
     "@types/node": "^16.18.16",
     "@types/react": "^18.0.28",
     "@types/react-dom": "^18.0.11",
+    "clsx": "^1.2.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
@@ -71,6 +72,7 @@
     "gh-pages": "^5.0.0",
     "prop-types": "^15.8.1",
     "serve": "^14.2.0",
+    "tailwindcss": "^3.2.7",
     "webpack": "^5.76.2"
   }
 }
